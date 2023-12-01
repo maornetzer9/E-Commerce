@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/E-Commerce/static/css/main.9b58fa75.css",
-    "main.js": "/E-Commerce/static/js/main.78c17f5e.js",
+    "main.css": "/E-Commerce/static/css/main.f9402cce.css",
+    "main.js": "/E-Commerce/static/js/main.538e20b8.js",
     "static/js/787.9e9f4ffd.chunk.js": "/E-Commerce/static/js/787.9e9f4ffd.chunk.js",
     "static/media/Cover.png": "/E-Commerce/static/media/Cover.276b61ea349969de9aed.png",
     "static/media/zaraLogo.png": "/E-Commerce/static/media/zaraLogo.fbc8ab3c1554360a7d69.png",
@@ -26,12 +26,12 @@
     "static/media/shoe.png": "/E-Commerce/static/media/shoe.68d668e1e241a7264e9b.png",
     "static/media/glasses.png": "/E-Commerce/static/media/glasses.582bd1a68196db389139.png",
     "index.html": "/E-Commerce/index.html",
-    "main.9b58fa75.css.map": "/E-Commerce/static/css/main.9b58fa75.css.map",
-    "main.78c17f5e.js.map": "/E-Commerce/static/js/main.78c17f5e.js.map",
+    "main.f9402cce.css.map": "/E-Commerce/static/css/main.f9402cce.css.map",
+    "main.538e20b8.js.map": "/E-Commerce/static/js/main.538e20b8.js.map",
     "787.9e9f4ffd.chunk.js.map": "/E-Commerce/static/js/787.9e9f4ffd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9b58fa75.css",
-    "static/js/main.78c17f5e.js"
+    "static/css/main.f9402cce.css",
+    "static/js/main.538e20b8.js"
   ]
 }
