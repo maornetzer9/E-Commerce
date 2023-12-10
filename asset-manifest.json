@@ -1,36 +1,28 @@
 {
   "files": {
-    "main.css": "/E-Commerce/static/css/main.87394849.css",
-    "main.js": "/E-Commerce/static/js/main.f7bb4aba.js",
+    "main.css": "/E-Commerce/static/css/main.42d86613.css",
+    "main.js": "/E-Commerce/static/js/main.bf8fa917.js",
     "static/js/787.9e9f4ffd.chunk.js": "/E-Commerce/static/js/787.9e9f4ffd.chunk.js",
     "static/media/zaraLogo.png": "/E-Commerce/static/media/zaraLogo.fbc8ab3c1554360a7d69.png",
     "static/media/p2.png": "/E-Commerce/static/media/p2.3cea49fad4df6d383049.png",
     "static/media/banner1.png": "/E-Commerce/static/media/banner1.8eced33fa9b23072722d.png",
-    "static/media/scarf.png": "/E-Commerce/static/media/scarf.94ab21e4c1007cb8f614.png",
-    "static/media/dress.png": "/E-Commerce/static/media/dress.409d374f0450ce927edc.png",
-    "static/media/pants.png": "/E-Commerce/static/media/pants.ba5c5ba26e5e8bdec42a.png",
     "static/media/p3.png": "/E-Commerce/static/media/p3.5b6a18be69b407074ffc.png",
     "static/media/p5.png": "/E-Commerce/static/media/p5.42da4cc0a5be5e154c30.png",
-    "static/media/hoodies.png": "/E-Commerce/static/media/hoodies.b3ced2bea8f30c0f5bcb.png",
-    "static/media/sportJacket.png": "/E-Commerce/static/media/sportJacket.2ba3011b1c0ee74c19b4.png",
     "static/media/p4.png": "/E-Commerce/static/media/p4.d8d4e8b3cfe21bbdecb6.png",
     "static/media/p1.png": "/E-Commerce/static/media/p1.5dc7fe91b3906892f3fa.png",
     "static/media/card-4.png": "/E-Commerce/static/media/card-4.11c19200b2316ca9cd50.png",
     "static/media/card-3.png": "/E-Commerce/static/media/card-3.a689927c8fab2c5f5288.png",
-    "static/media/bag.png": "/E-Commerce/static/media/bag.d3deac57398b2ef38f30.png",
     "static/media/card-2.png": "/E-Commerce/static/media/card-2.8b81e7c13d4f74f4b86f.png",
     "static/media/card-5.png": "/E-Commerce/static/media/card-5.a83323907ac1b262e59d.png",
     "static/media/card-6.png": "/E-Commerce/static/media/card-6.b5db0057327b117a34d8.png",
     "static/media/card-1.png": "/E-Commerce/static/media/card-1.88b8983568fb05dcf913.png",
-    "static/media/shoe.png": "/E-Commerce/static/media/shoe.68d668e1e241a7264e9b.png",
-    "static/media/glasses.png": "/E-Commerce/static/media/glasses.582bd1a68196db389139.png",
     "index.html": "/E-Commerce/index.html",
-    "main.87394849.css.map": "/E-Commerce/static/css/main.87394849.css.map",
-    "main.f7bb4aba.js.map": "/E-Commerce/static/js/main.f7bb4aba.js.map",
+    "main.42d86613.css.map": "/E-Commerce/static/css/main.42d86613.css.map",
+    "main.bf8fa917.js.map": "/E-Commerce/static/js/main.bf8fa917.js.map",
     "787.9e9f4ffd.chunk.js.map": "/E-Commerce/static/js/787.9e9f4ffd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.87394849.css",
-    "static/js/main.f7bb4aba.js"
+    "static/css/main.42d86613.css",
+    "static/js/main.bf8fa917.js"
   ]
 }
